@@ -122,11 +122,13 @@ Las evidencias experimentales incluyen:
 
 ---
 
-## Autor
+## Autores
 
-Ulises Chávez
+Becerril Olivo Antonio de Jesus
+Chavez Acosta Jose Ulises
+Totomol Tepo Emmanuel
 
-Ingeniería en Instrumentación Electrónica
+Ingeniería en Instrumentación Electrónica, Universidad Veracruzana
 
 ---
 
