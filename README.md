@@ -124,9 +124,7 @@ Las evidencias experimentales incluyen:
 
 ## Autores
 
-Becerril Olivo Antonio de Jesus
-Chavez Acosta Jose Ulises
-Totomol Tepo Emmanuel
+Becerril Olivo Antonio de Jesus, Chavez Acosta Jose Ulises, Totomol Tepo Emmanuel
 
 Ingeniería en Instrumentación Electrónica, Universidad Veracruzana
 
